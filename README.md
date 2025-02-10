@@ -1,3 +1,3 @@
 # bookbot
 
-Bookbot is the first project in the Boot.dev learning course
+Bookbot is my first project in the Boot.dev learning course
